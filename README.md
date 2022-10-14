@@ -45,6 +45,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
+<div align="center">
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 <!---
 yselimguner/yselimguner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
