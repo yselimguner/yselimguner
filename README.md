@@ -4,12 +4,10 @@
 - 💬 Ask me about Swift, C#, ASP.NET, SQL
 - 📫 How to reach me LinkedIn || https://www.linkedin.com/in/yavuz-selim-g%C3%BCner-bb5228220
 
+
+
 <!---
 yselimguner/yselimguner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-Languages & Tools 🛠
-
- react  javascript  python  redux  sass  bootstrap  css3  html5  django  git  linux  postman
