@@ -10,7 +10,6 @@
 <p align="center"> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" alt="swift" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/whatis/whatis_github.asp" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github "  /></a>
@@ -38,7 +37,6 @@
      <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yselimguner&theme=flag-india&show_icons=true" >
 </div> 
-  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div> 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=yselimguner&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
