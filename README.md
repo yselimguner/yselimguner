@@ -4,6 +4,8 @@
 - 💬 Ask me about Swift, C#, ASP.NET, SQL
 - 📫 How to reach me LinkedIn || https://www.linkedin.com/in/yavuz-selim-g%C3%BCner-bb5228220
 
+- ![](https://komarev.com/ghpvc/?username=yselimguner&blue)
+
 ## Languages & Tools  🛠
 
 
