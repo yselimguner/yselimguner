@@ -24,10 +24,8 @@
 
 
 ## Github Stats 💻 
-<div align="center">
 
-    </div>
-     <div align="center">
+</div>
 <img src="https://github-readme-stats.vercel.app/api?username=yselimguner&theme=flag-india&show_icons=true" >
 </div> 
 
