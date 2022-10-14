@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yselimguner
 - 🔭 I’m currently working on Swift
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning mobile development...
 - 💬 Ask me about Swift, C#, ASP.NET, SQL
 - 📫 How to reach me LinkedIn || https://www.linkedin.com/in/yavuz-selim-g%C3%BCner-bb5228220
