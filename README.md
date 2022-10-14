@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Swift
 - 🌱 I’m currently learning mobile development...
 - 💬 Ask me about Swift, C#, ASP.NET, SQL
-- 📫 How to reach me LinkedIn || https://www.linkedin.com/in/yavuz-selim-g%C3%BCner-bb5228220
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yavuz-selim-g%C3%BCner-bb5228220) || yavuzselimguner@yahoo.com 
 
 - ![](https://komarev.com/ghpvc/?username=yselimguner&blue)
 
