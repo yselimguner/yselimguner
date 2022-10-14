@@ -29,17 +29,17 @@
             <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=cansuoztas&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
           </td>
           <td align="center" style="padding=0;width=50%;">
-            <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansuoztas&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true" />
+            <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yselimguner&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true" />
           </td>
         </tr>
     </table>
     </div>
      <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cansuoztas&theme=flag-india&show_icons=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=yselimguner&theme=flag-india&show_icons=true" >
 </div> 
   <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div> 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=cansuoztas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=yselimguner&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
