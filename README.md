@@ -43,7 +43,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=yselimguner&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 <div align="center">
 
