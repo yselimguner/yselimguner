@@ -1,42 +1,34 @@
-- 👋 Hi, I’m @yselimguner
-- 🔭 I’m currently working on Swift
-- 🌱 I’m currently learning mobile development...
-- 💬 Ask me about Swift, UIKit, SwiftUI
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yavuz-selim-g%C3%BCner-bb5228220) || yavuzselimguner@yahoo.com 
+## Yavuz Selim Güner
 
-- ![](https://komarev.com/ghpvc/?username=yselimguner&blue)
+**iOS Developer** · Swift · UIKit · SwiftUI · Istanbul
 
-## Languages & Tools  🛠
+![](https://komarev.com/ghpvc/?username=yselimguner&style=flat-square&color=0e76a8)
 
+---
 
-<p align="center"> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" alt="swift" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/whatis/whatis_github.asp" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github "  /></a>
-<a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="40" alt="jira "  /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="40" alt="slack " /></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode"  /></a>
-</p>
+### About
 
+iOS developer with 5 years of hands-on experience building native applications for iPhone and iPad. Focused on writing clean, maintainable Swift code and crafting intuitive user experiences. Comfortable with both UIKit's fine-grained control and SwiftUI's declarative approach — choosing the right tool for the job.
 
-## Github Stats 💻 
+---
 
-</div>
-<img src="https://github-readme-stats.vercel.app/api?username=yselimguner&theme=flag-india&show_icons=true" >
-</div> 
+### Tech Stack
 
-<div align="center">
+| Platform | Framework | Tooling |
+|---|---|---|
+| iOS · iPadOS | Swift 5+ | Xcode · Instruments |
+| UIKit | SwiftUI | Git · GitHub |
+| Auto Layout | Combine | Jira · Slack |
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+---
 
-</div>
+### GitHub Stats
 
-<!---
-yselimguner/yselimguner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=yselimguner&theme=default&show_icons=true&hide_border=true&include_all_commits=true" />
 
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yavuz-selim-güner-bb5228220)
+[![Email](https://img.shields.io/badge/Email-yavuzselimguner@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:yavuzselimguner@yahoo.com)
